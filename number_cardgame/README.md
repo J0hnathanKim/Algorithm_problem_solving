@@ -13,7 +13,9 @@ Therefore, when choosing which row to select from, you should consider which row
 For example, suppose the cards are arranged in a 3 × 3 grid as follows:
 
 3   1   2
+
 4   1   4
+
 2   2   2
 
 
