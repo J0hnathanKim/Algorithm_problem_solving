@@ -7,7 +7,7 @@ int main() {
     cin >> count;
 
     // Ensure count doesn't exceed the number of possible valid moves
-    count = min(count, 4); // The max number of valid moves is 4 on a 5x5 grid
+    // count = min(count, 4); // The max number of valid moves is 4 on a 5x5 grid //chatgpt wrote this part but I'm still not sure this makes sense.
 
     while (count > 0) {
         char direction;
